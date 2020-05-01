@@ -1,0 +1,303 @@
+/* icomoon (http://icomoon.io/) icon webfont */
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?-yf73jm');
+	src:url('../fonts/icomoon.eot?#iefix-yf73jm') format('embedded-opentype'),
+		url('../fonts/icomoon.woff?-yf73jm') format('woff'),
+		url('../fonts/icomoon.ttf?-yf73jm') format('truetype'),
+		url('../fonts/icomoon.svg?-yf73jm#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="fp-icon-"], [class*=" fp-icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.fp-icon-cog:before {
+	content: "\e600";
+}
+.fp-icon-pie:before {
+	content: "\e606";
+}
+.fp-icon-stats:before {
+	content: "\e605";
+}
+.fp-icon-bars:before {
+	content: "\e607";
+}
+.fp-icon-remove:before {
+	content: "\e608";
+}
+.fp-icon-menu:before {
+	content: "\e60a";
+}
+.fp-icon-info:before {
+	content: "\e609";
+}
+.fp-icon-cancel-circle:before {
+	content: "\e603";
+}
+.fp-icon-checkmark-circle:before {
+	content: "\e604";
+}
+.fp-icon-close:before {
+	content: "\e601";
+}
+.fp-icon-checkmark:before {
+	content: "\e602";
+}
+/* end icon webfont */
+
+/* menu and screen icons */
+.toplevel_page_footballpool-options.wp-has-current-submenu.wp-menu-open div.wp-menu-image,
+.toplevel_page_footballpool-options div.wp-menu-image {
+	background: url(images/admin-menu-16.png) 0 -33px no-repeat;
+}
+
+body.admin-color-fresh .toplevel_page_footballpool-options.wp-not-current-submenu:hover div.wp-menu-image {
+	background-repeat: no-repeat; background-attachment: scroll; background-position: 0 0;
+}
+
+th.manage-column { vertical-align: top; }
+
+/* bonus questions */
+.football-pool_page_footballpool-bonus {
+	th.manage-column {
+		.column-question { width: 340px; }
+		.column-answer { width: 180px; }
+		.column-points { width: 50px; }
+	}
+}
+	
+/* matches */
+input.score { width: 3em; }
+.matchinfo {
+	.home, .away { font-size: 120%; font-weight: bolder; }
+}
+
+table.help {
+	th { text-align: left; text-decoration: underline; }
+	th, td { padding-right: 1em; }
+	tr:nth-of-type(1) { background-color: #e0e0e0; }
+	tr:nth-of-type(even) { background-color: #fcfcfc; }
+}
+
+table.user-list tr:hover, 
+table.user-answers tr:hover { 
+	background-color: #F1F1F1; 
+}
+
+label.radio {
+	font-weight: normal;
+	display: block;
+	padding-left: 22px;
+	text-indent: -22px;
+	margin-bottom: 5px;
+}
+
+img.screenshot { 
+	box-shadow: 5px 5px 5px #888;
+	margin: 10px 0 0 20px;
+	border: 1px solid #dfdfdf;
+}
+
+input.date-y { width: 4em; }
+input.date-m { width: 2.5em; }
+input.date-d { width: 2.5em; }
+input.date-h { width: 2.5em; }
+input.date-i { width: 2.5em; }
+
+.placeholder, .hint { font-style: italic; color: #ccc; }
+
+.email-addresses textarea { width: 500px; height: 100px; }
+.email-addresses.players textarea { border: 1px solid green; }
+.email-addresses.not-players textarea { border: 1px solid red; }
+.email-addresses { margin-bottom: 20px; }
+.email-addresses label { margin-right: 20px; }
+
+table.form-table td:nth-child(2) { width: 310px; }
+
+div.donate { text-align: right; }
+div.donate form { margin-left: 2em; }
+
+table.fp-radio-list { border-collapse: collapse; }
+.fp-radio-list label { display: block; padding-right: 5em; }
+.fp-radio-list td { padding: 5px 4px; vertical-align: top; }
+.fp-radio-list tr.csv-file:hover { background-color: #2ea2cc; color: #fff; }
+.fp-radio-list tr.csv-file:hover a { color: #fff; }
+.fp-radio-list input[type=radio] { margin-right: 1.5em; }
+.fp-radio-list td.file {  }
+.fp-radio-list th { text-align: left; font-weight: normal; font-style: italic; }
+
+div.import.culture-select { text-align: right; }
+
+td.date-title { text-align: right; }
+
+div.fp-admin .button { margin-right: 3px; }
+
+.fp-multi-select { width: 300px; }
+
+div.help.important {
+	margin: 5px 15px;
+	background-color: #ffffe0;
+	border-color: #e6db55;
+	padding: 0 .6em;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+}
+
+div.help-page h2 { padding: 3em 0 .5em; }
+div.help-page h2:first-of-type { padding-top: 1em; }
+div.help-page h3 { padding: 2em 0 .5em; }
+div.help-page h2 + h3 { padding-top: 0; }
+
+div.ranking-definition div input[type="checkbox"] {
+	margin-right: 5px;
+}
+div.ranking-definition label {
+	font-weight: normal;
+	font-size: 1em;
+}
+div.ranking-definition div.matchtype label {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+div.ranking-definition div {
+	padding: 0 3px;
+}
+div.ranking-definition div.matchtype {
+	margin: 5px 0 2px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	background-color: rgb( 223, 223, 223 );
+}
+div.ranking-definition h4 { font-size: 150%; margin-top: 2em; }
+
+table.fp-options  td, table.fp-options  th { vertical-align: top; }
+table.fp-options  tr { border-top: 1px solid rgb( 223, 223, 223 ); }
+table.fp-options  tr.no-border { border: none; }
+table.fp-options  tr:last-child { border-bottom: 1px solid rgb( 223, 223, 223 ); }
+
+.contextual-help-tabs-wrap p em { 
+	font-family: Georgia, "Times New Roman", "Bitstream Charter", Times, serif; 
+}
+div.ranking-log-rest { display: none; }
+.cboxContent div.ranking-log-rest { display: block; }
+
+div.ranking-log span { padding-right: 10px; }
+
+.football-pool_page_footballpool-rankings th.column-name { width: 30%; }
+.football-pool_page_footballpool-rankings th.column-calculate { width: 10%; }
+.football-pool_page_footballpool-rankings th.column-log { width: 30%; }
+.football-pool_page_footballpool-rankings th.column-single_calculation { width: 15%; }
+
+/* score calculation */
+#ajax-loader {
+	display: none; margin-right: 8px; float: left;
+	background-image: url(images/ajax-loader-blue.gif);
+	width: 16px;
+	height: 16px;
+}
+/*
+#ajax-loader {
+	display: none; margin-right: 8px; float: left;
+	background-image: url(images/ajax-loader2-blue.gif);
+	width: 16px;
+	height: 11px;
+}
+*/
+#fp-calc-progress { display: none; }
+#fp-calc-progress .animation { text-align: center; }
+#fp-calc-progress .error { color: red; }
+#calculation-timer { margin-top: 30px; font-style: italic; }
+
+.fp-calc-progress .ui-progressbar {
+	height: 15px;
+}
+.fp-calc-progress #fp-calc-progressbar {
+	margin-top: 15px;
+}
+
+#step-0-form input[type="radio"] { margin-right: 5px; }
+#step-0-form .calculation-type-select { margin: 1em 0 0; }
+#step-0-form .calculation-type-select label { 
+	display: block; 
+	margin-bottom: 4px; 
+	font-weight: bold; 
+	cursor: pointer;
+	padding-left: 30px;
+	text-indent: -30px;
+}
+#step-0-form .calculation-type-select label span { font-style: italic; font-weight: normal; }
+#step-0-form .submit { }
+
+.tablenav.no-pages { display: none; }
+
+code.block { display: block; margin: 0 0 15px; }
+code.inline { display: inline; }
+pre code.bash {
+    color: #f1f1f1;
+    text-shadow: 0 1px rgba(0,0,0,0.3);
+    font-family: Consolas, "Liberation Mono", Courier, monospace;
+    direction: ltr;
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+	background-color: #444;
+}
+
+pre code {
+    display: block;
+    padding: 0.4em 0.5em 0.3em 0.5em;
+    margin: .5em 0 1.1em 0;
+    overflow: auto;
+    border-radius: 0.3em;
+    font-size: 1em;
+}
+
+pre.code-block {
+	margin: 1em 0 1em;
+	display: block;
+	overflow: auto;
+}
+
+td.time.UTC input[type="text"] { width: 130px; }
+td.time.local { width: 130px; }
+
+.no-matches-notice { text-align: right; }
+.no-matches-notice img { max-width: 100%; }
+
+.help-page .widefat.help ul li { margin-left: 2em; list-style-type: disc; }
+
+.options-page.back-to-top { text-align: right; }
+.fp-admin h2 span[class^="fp-icon-"], .fp-admin h2 span[class*=" fp-icon-"] { margin-left: 2em; cursor: pointer; }
+#fp-options-menu { display: none; }
+
+.fp-admin img.league-image { max-height: 40px; }
+
+div.row-actions span.item-id { color: #666; }
+
+.toplevel_page_footballpool-options .match-time-offset { width: 150px!important; } 
+.toplevel_page_footballpool-options .ranking-select { width: 100%!important; }
+.toplevel_page_footballpool-options .league-select { width: 100%!important; }

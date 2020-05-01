@@ -1,0 +1,56 @@
+/*
+ Contributor: Roger Boschung
+ Assets URI: https://www.dropbox.com/s/5f7inoa6ph7ibaf/UEFA-EURO-2020.zip?dl=0
+*/
+play_date;home_team;away_team;stadium;match_type;home_team_photo;home_team_flag;home_team_link;home_team_group;home_team_group_order;home_team_is_real;away_team_photo;away_team_flag;away_team_link;away_team_group;away_team_group_order;away_team_is_real;stadium_photo
+"2020-06-12 20:00:00";Turkey;Italy;Rome;"Group Stage";Turkey.jpg;tur.png;;"Group A";3;1;Italy.jpg;ita.png;;"Group A";1;1;Rome.jpg
+"2020-06-13 14:00:00";Wales;Switzerland;Baku;"Group Stage";Wales.jpg;wal.png;;"Group A";4;1;switzerland.jpg;sui.png;h;"Group A";2;1;Baku.jpg
+"2020-06-13 17:00:00";Denmark;Finland;Copenhagen;"Group Stage";denmark.jpg;den.png;;"Group B";2;1;Finland.jpg;fin.png;;"Group B";3;1;Copenhagen.jpg
+"2020-06-13 20:00:00";Belgium;Russia;Petersburg;"Group Stage";belgium.jpg;bel.png;;"Group B";1;1;russia.jpg;rus.png;;"Group B";4;1;Petersburg.jpg
+"2020-06-14 14:00:00";England;Croatia;Bucharest;"Group Stage";england.jpg;eng.png;;"Group D";3;1;croatia.jpg;cro.png;;"Group D";1;1;Bucharest.jpg
+"2020-06-14 17:00:00";Austria;"Play-Off Winner D (A)";Bucharest;"Group Stage";Austria.jpg;aus.png;;"Group C";1;1;;;;"Group C";3;0;Bucharest.jpg
+"2020-06-14 20:00:00";Netherlands;Ukraine;Amsterdam;"Group Stage";Netherlands.jpg;net.png;;"Group C";2;1;Ukraine.jpg;ukr.png;;"Group C";4;1;Amsterdam.jpg
+"2020-06-15 14:00:00";"Play-off Winner C";"Czech Republic";Glasgow;"Group Stage";;;;"Group D";4;0;Czech.jpg;cze.png;;"Group D";2;1;Glasgow.jpg
+"2020-06-15 17:00:00";Poland;"Play-off Winner B";Dublin;"Group Stage";poland.jpg;pol.png;;"Group E";2;1;;;;"Group E";1;0;Dublin.jpg
+"2020-06-15 20:00:00";Spain;Sweden;Bilbao;"Group Stage";spain.jpg;spa.png;;"Group E";3;1;sweden.jpg;swe.png;;"Group E";4;1;Bilbao.jpg
+"2020-06-16 17:00:00";"Play-off Winner A (D)";Portugal;Munich;"Group Stage";;;;"Group F";4;0;portugal.jpg;por.png;;"Group F";4;1;Munich.jpg
+"2020-06-16 20:00:00";France;Germany;Budapest;"Group Stage";france.jpg;fra.png;;"Group F";1;1;germany.jpg;ger.png;;"Group F";2;1;Budapest.jpg
+"2020-06-17 14:00:00";Finland;Russia;Petersburg;"Group Stage";Finland.jpg;fin.png;;"Group B";3;1;russia.jpg;rus.png;;"Group B";4;1;Petersburg.jpg
+"2020-06-17 17:00:00";Turkey;Wales;Baku;"Group Stage";Turkey.jpg;tur.png;;"Group A";3;1;Wales.jpg;wal.png;;"Group A";4;1;Baku.jpg
+"2020-06-17 20:00:00";Italy;Switzerland;Rome;"Group Stage";Italy.jpg;ita.png;;"Group A";1;1;switzerland.jpg;sui.png;h;"Group A";2;1;Rome.jpg
+"2020-06-18 14:00:00";Ukraine;"Play-Off Winner D (A)";Bucharest;"Group Stage";Ukraine.jpg;ukr.png;;"Group C";4;1;;;;"Group C";3;0;Bucharest.jpg
+"2020-06-18 17:00:00";Denmark;Belgium;Copenhagen;"Group Stage";denmark.jpg;den.png;;"Group B";2;1;belgium.jpg;bel.png;;"Group B";1;1;Copenhagen.jpg
+"2020-06-18 20:00:00";Netherlands;Austria;Amsterdam;"Group Stage";Netherlands.jpg;net.png;;"Group C";2;1;Austria.jpg;aus.png;;"Group C";1;1;Amsterdam.jpg
+"2020-06-19 14:00:00";Sweden;"Play-off Winner B";Dublin;"Group Stage";sweden.jpg;swe.png;;"Group E";4;1;;;;"Group E";1;0;Dublin.jpg
+"2020-06-19 17:00:00";Croatia;"Czech Republic";Glasgow;"Group Stage";croatia.jpg;cro.png;;"Group D";1;1;Czech.jpg;cze.png;;"Group D";2;1;Glasgow.jpg
+"2020-06-19 20:00:00";England;"Play-off Winner C";London;"Group Stage";england.jpg;eng.png;;"Group D";3;1;;;;"Group D";4;0;London.jpg
+"2020-06-20 14:00:00";"Play-off Winner A (D)";France;Budapest;"Group Stage";;;;"Group F";4;0;france.jpg;fra.png;;"Group F";1;1;Budapest.jpg
+"2020-06-20 17:00:00";Portugal;Germany;Munich;"Group Stage";portugal.jpg;por.png;;"Group F";4;1;germany.jpg;ger.png;;"Group F";2;1;Munich.jpg
+"2020-06-20 20:00:00";Spain;Poland;Bilbao;"Group Stage";spain.jpg;spa.png;;"Group E";3;1;poland.jpg;pol.png;;"Group E";2;1;Bilbao.jpg
+"2020-06-21 17:00:00";Switzerland;Turkey;Baku;"Group Stage";switzerland.jpg;sui.png;h;"Group A";2;1;Turkey.jpg;tur.png;;"Group A";3;1;Baku.jpg
+"2020-06-21 17:00:00";Italy;Wales;Rome;"Group Stage";Italy.jpg;ita.png;;"Group A";1;1;Wales.jpg;wal.png;;"Group A";4;1;Rome.jpg
+"2020-06-22 17:00:00";"Play-Off Winner D (A)";Netherlands;Amsterdam;"Group Stage";;;;"Group C";3;0;Netherlands.jpg;net.png;;"Group C";2;1;Amsterdam.jpg
+"2020-06-22 17:00:00";Ukraine;Austria;Bucharest;"Group Stage";Ukraine.jpg;ukr.png;;"Group C";4;1;Austria.jpg;aus.png;;"Group C";1;1;Bucharest.jpg
+"2020-06-22 20:00:00";Russia;Denmark;Copenhagen;"Group Stage";russia.jpg;rus.png;;"Group B";4;1;denmark.jpg;den.png;;"Group B";2;1;Copenhagen.jpg
+"2020-06-22 20:00:00";Finland;Belgium;Petersburg;"Group Stage";Finland.jpg;fin.png;;"Group B";3;1;belgium.jpg;bel.png;;"Group B";1;1;Petersburg.jpg
+"2020-06-23 20:00:00";Croatia;"Play-off Winner C";Glasgow;"Group Stage";croatia.jpg;cro.png;;"Group D";1;1;;;;"Group D";4;0;Glasgow.jpg
+"2020-06-23 20:00:00";"Czech Republic";England;London;"Group Stage";Czech.jpg;cze.png;;"Group D";2;1;england.jpg;eng.png;;"Group D";3;1;London.jpg
+"2020-06-24 17:00:00";"Play-off Winner B";Spain;Bilbao;"Group Stage";;;;"Group E";1;0;spain.jpg;spa.png;;"Group E";3;1;Bilbao.jpg
+"2020-06-24 17:00:00";Sweden;Poland;Dublin;"Group Stage";sweden.jpg;swe.png;;"Group E";4;1;poland.jpg;pol.png;;"Group E";2;1;Dublin.jpg
+"2020-06-24 20:00:00";Portugal;France;Budapest;"Group Stage";portugal.jpg;por.png;;"Group F";4;1;france.jpg;fra.png;;"Group F";1;1;Budapest.jpg
+"2020-06-24 20:00:00";Germany;"Play-off Winner A (D)";Munich;"Group Stage";germany.jpg;ger.png;;"Group F";2;1;;;;"Group F";4;0;Munich.jpg
+"2020-06-27 17:00:00";"Runner-up Group A";"Runner-up Group B";Amsterdam;"Round of 16";;;;;0;0;;;;;0;0;Amsterdam.jpg
+"2020-06-27 20:00:00";"Winner Group A";"Runner-up Group C";London;"Round of 16";;;;;0;0;;;;;0;0;London.jpg
+"2020-06-28 17:00:00";"Winner Group C";"3rd place D/E/F";Budapest;"Round of 16";;;;;0;0;;;;"Group A";0;0;Budapest.jpg
+"2020-06-28 20:00:00";"Winner Group B";"3rd place A/D/E/F";Bilbao;"Round of 16";;;;;0;0;;;;"Group A";0;0;Bilbao.jpg
+"2020-06-29 17:00:00";"Runner-up Group D";"Runner-up Group E";Copenhagen;"Round of 16";;;;;0;0;;;;;0;0;Copenhagen.jpg
+"2020-06-29 20:00:00";"Winner Group F";"3rd place A/B/C";Bucharest;"Round of 16";;;;;0;0;;;;"Group A";0;0;Bucharest.jpg
+"2020-06-30 17:00:00";"Winner Group D";"Runner-up Group F";Dublin;"Round of 16";;;;;0;0;;;;;0;0;Dublin.jpg
+"2020-06-30 20:00:00";"Winner Group E";"3rd place A/B/C/D";Glasgow;"Round of 16";;;;;0;0;;;;"Group A";0;0;Glasgow.jpg
+"2020-07-03 17:00:00";"Winner match 41";"Winner match 42";Petersburg;"Quarter Finals";;;;;0;0;;;;;0;0;Petersburg.jpg
+"2020-07-03 20:00:00";"Winner match 39";"Winner match 37";Munich;"Quarter Finals";;;;;0;0;;;;;0;0;Munich.jpg
+"2020-07-04 17:00:00";"Winner match 40";"Winner match 38";Baku;"Quarter Finals";;;;;0;0;;;;;0;0;Baku.jpg
+"2020-07-04 20:00:00";"Winner match 43";"Winner match 44";Rome;"Quarter Finals";;;;;0;0;;;;;0;0;Rome.jpg
+"2020-07-07 20:00:00";"Winner match 45";"Winner match 46";London;Semi-Finals;;;;;0;0;;;;;0;0;London.jpg
+"2020-07-08 20:00:00";"Winner match 48";"Winner match 47";London;Semi-Finals;;;;;0;0;;;;;0;0;London.jpg
+"2020-07-12 20:00:00";"Winner match 49";"Winner match 50";London;Final;;;;;0;0;;;;;0;0;London.jpg

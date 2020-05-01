@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"",
+"lineCount":6,
+"mappings":"A;;;;;AAQAA,MAAA,CAAQC,QAAR,CAAAC,MAAA,CAA0B,QAAQ,EAAG,CAEV,WAA1B,EAAK,MAAOC,WAAZ,EACCA,UAAAC,WAAA,CAAuB,CAEtBC,QAAS,CACRC,QAAS,CAAA,CADD,CAFa,CAMpBC,OAAQ,yPAAA,MAAA,CAAA,GAAA,CANY,CAAvB,CAoBDC,aAAAC,mBAAA,EAvBoC,CAArC;",
+"sources":["pool-charts.js"],
+"names":["jQuery","document","ready","Highcharts","setOptions","credits","enabled","colors","FootballPool","charts_user_toggle"]
+}
